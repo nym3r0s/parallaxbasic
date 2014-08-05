@@ -1,0 +1,19 @@
+#canv
+{
+    position: absolute;
+    top:0;
+    left:0;
+}
+
+#b
+{
+    position: absolute;
+    top: 0;
+    left: 450;
+}
+#f
+{
+    position: absolute;
+    top: 150;
+    left: 350;
+}
